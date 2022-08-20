@@ -58,7 +58,7 @@ It is worth noting that a higher ppda_coef implies a lower power of pressure. So
 
 - **Insight:** The highest number of wins in a single season by a team over these years is 32 while the highest number of losses is 29.
 
-![alt text](points_dist.png)
+![alt text](points_dist.jpg)
 
 - **Insight:** Of the 33769 points picked up in this period, the EPL, La liga and Serie A contributed an equal equivalent of 19% each.
 
@@ -116,19 +116,19 @@ It is worth noting that a higher ppda_coef implies a lower power of pressure. So
 
 - **Insight:** Bayern Munich won for the six years in __Bundesliga__
 
-![alt text](avg_points_plot.png)
+![alt text](avg_points_plot.jpg)
 
 - **Insight:** On average, the RFPL teams won fewer points than those in other leagues.
 
 - **Insight:** Leagues maintain the same range in total points won during the seasons. Also, we see RPFL falling behind in total number of points won.
 
-![alt text](goals_dist.png)
+![alt text](goals_dist.jpg)
 
 - **Insight:** All the leagues have comparable goal distributions among their teams. Except the RFPL which seems to fall behind on this parameter.
 
 - **Insight:** Goal-loving football fans would be drawn away from the RFPL.
 
-![alt text](corr_ppda_pts.png)
+![alt text](corr_ppda_pts.jpg)
 
 - **Insight:** There is a positive correlation between the ppda_coef of a team and the number of deep passes they allow their oponents to make. There is also positive correlation between the number of deep passes a team allows to the the goals they get. Finally, there is a negative correlation between the goals a team concededs and the number of points they get.
 
