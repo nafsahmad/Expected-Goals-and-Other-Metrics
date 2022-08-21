@@ -8,7 +8,7 @@ The data had 684 observations for 24 features of teams in 6 leagues across Europ
 
 These observations reflected the performance of the teams across a period of 6 seasons beginning in the 2014/2015 season and ending in the 2019/2020 season.
 
-Fortunately, there were no missing values in the dataset and so not much wor was required in that aspect of the data cleaning proces. Nevertheless, we had to label some unnamed columns and also change the names of certain columns to make them more descriptve of the values which they contain.
+Fortunately, there were no missing values in the dataset and so not much work was required in that aspect of the data cleaning process. Nevertheless, we had to label some unnamed columns and also change the names of certain columns to make them more descriptve of the values which they contain.
 
 **Data Source:** [kaggle](https://www.kaggle.com/datasets/slehkyi/extended-football-stats-for-european-leagues-xg?select=understat.com.csv)
 
