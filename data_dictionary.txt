@@ -1,0 +1,26 @@
+> xG - expected goals metric, it is a statistical measure of the quality of chances created and conceded.
+
+> xG_diff - difference between actual goals scored and expected goals.
+
+> npxG - expected goals without penalties and own goals.
+
+> xGA - expected goals against.
+
+> xGA_diff - difference between actual goals missed and expected goals against.
+
+> npxGA - expected goals against without penalties and own goals.
+
+> npxGD - difference between "for" and "against" expected goals without penalties and own goals.
+
+> ppda_coef - passes allowed per defensive action in the opposition half (power of pressure)
+
+> oppda_cpef - opponent passes allowed per defensive action in the opposition half (power of opponent's pressure)
+
+> deep - passes completed within an estimated 20 yards of goal (crosses excluded)
+
+> deep_allowed - opponent passes completed within an estimated 20 yards of goal (crosses excluded)
+
+> xpts - expected points
+
+> xpts_diff - difference between actual and expected points
+
